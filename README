@@ -1,0 +1,24 @@
+* qa-system
+
+** query-process
+
+	segmentation: at first segment the query into words.
+	query-analysis: find what kind of query it asks.
+	lexical-answer-type: find the key word of the query, i.e. what does it want.
+	query-reformulation: 
+
+** data-process
+	
+	data-parse: extract the text or table from the raw-data.
+	information-extraction: extract the effictive information from text.
+
+** answer-retrivel:
+
+	data-retrivel: given a query, return a list of related words/sentence.
+	text inference: no deep learning yet.
+	candidata-answer-rank: rank the answers.
+	
+
+
+
+
