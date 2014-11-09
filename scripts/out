@@ -1,0 +1,388 @@
+SEGMENT: ^/x 哪部/r 电影/n 是/v 唯一/b 一部/m 获得/v 奥斯卡/nr 最佳/z 外语片/n 的/uj 华语/nz 电影/n $/x 
+KEYWORDS: 电影 哪部 
+LAT: WHICH [电影,]
+
+SEGMENT: ^/x 武汉/ns 腐乳/nz 是/v 用/p 什么/r 发酵/v 的/uj $/x 
+KEYWORDS: 腐乳 发酵 
+LAT: WHAT [发酵,]
+
+SEGMENT: ^/x 哪/r 种/m 食物/n 在/p 2011/m 年/m 6/m 月/m 被/p 美国/ns CNN/eng 的/uj iReport/eng 栏目/n 评为/v “/x 世界/n 最/d 恶心/n 的/uj 食物/n ”/x 头名/n $/x 
+KEYWORDS: 食物 iReport 
+LAT: WHICH [种,食物,]
+
+SEGMENT: ^/x 自行车/n 大约/d 于/p 哪一年/r 传入/v 中国/ns $/x 
+KEYWORDS: 哪一年 传入 
+LAT: WHEN [年,]
+
+SEGMENT: ^/x 谁/r 是/v 右手/n 中国式/nz 直拍/v 弧圈/n 结合/v 两面/m 快攻/vn 打法/v 选手/v $/x 
+KEYWORDS: 弧圈 直拍 
+LAT: WHO [选手,]
+
+SEGMENT: ^/x 黄牛/nr 一/m 词/n 来源于/v 哪里/r $/x 
+KEYWORDS: 黄牛 一词 
+LAT: 
+
+SEGMENT: ^/x 周星驰/nr 其/r 名/q 出自于/v 《/x 滕王阁/nr 序/n 》/x 中/f 的/uj 哪/r 一句/m $/x 
+KEYWORDS: 滕王阁 周星驰 
+LAT: WHICH [一句,]
+
+SEGMENT: ^/x 《/x 愤怒/v 的/uj 小鸟/n 》/x （/x 芬兰语/nz ：/x Vihainen/eng  /x Lintu/eng ，/x 英语/nz ：/x Angry/eng  /x Birds/eng ）/x 是/v 哪个/r 公司/n 推出/v 的/uj 一款/m 益智/nr 游戏/n $/x 
+KEYWORDS: Vihainen Lintu 
+LAT: WHICH [公司,]
+
+SEGMENT: ^/x 第一代/m iPhone/eng 是/v 什么/r 时候/n 发布/v 的/uj $/x 
+KEYWORDS: iPhone 第一代 
+LAT: WHAT [时候,]
+
+SEGMENT: ^/x 魔方/n 是/v 由/p 谁/r 发明/v 的/uj 机械/n 益智/nr 玩具/n $/x 
+KEYWORDS: 魔方 益智 
+LAT: 
+
+SEGMENT: ^/x Adobe/eng  /x Audition/eng 第一版/nz 于/p 什么/r 时候/n 发布/v $/x 
+KEYWORDS: Audition Adobe 
+LAT: WHAT [时候,]
+
+SEGMENT: ^/x 央视/j 拥有/v 多少/m 个/q 电视频道/n $/x 
+KEYWORDS: 电视频道 央视 
+LAT: HOWMANY [个,电视频道,]
+
+SEGMENT: ^/x 冯小刚/nr 的/uj 现任/n 妻子/n 是/v 谁/r $/x 
+KEYWORDS: 冯小刚 现任 
+LAT: WHO [妻子,]
+
+SEGMENT: ^/x 王宝强/nr 在/p 哪一年/r 首次/m 参加/v 中央电视台/nt “/x 春晚/t ”/x $/x 
+KEYWORDS: 王宝强 哪一年 
+LAT: WHEN [年,]
+
+SEGMENT: ^/x 芭蕾/n 起源于/v 哪个/r 国家/n $/x 
+KEYWORDS: 芭蕾 起源于 
+LAT: WHICH [国家,]
+
+SEGMENT: ^/x 戏剧/n 的/uj 表演/v 形式/n 多种多样/m ，/x 常见/a 的/uj 包括/v 哪些/r $/x 
+KEYWORDS: 多种多样 哪些 
+LAT: LIST []
+
+SEGMENT: ^/x 在/p 美国/ns ，/x 已知/v 最早/d 的/uj 十字绣/n 样品/n 目前/t 在/p 存放/v 在/p 马萨诸塞州/ns 普利茅斯/nrt 的/uj 哪里/r $/x 
+KEYWORDS: 十字绣 普利茅斯 
+LAT: 
+
+SEGMENT: ^/x 北京大学/nt 现有/b 几个/m 校区/n $/x 
+KEYWORDS: 校区 北京大学 
+LAT: HOWMANY [校区,]
+
+SEGMENT: ^/x 义务教育/n 的/uj 三个/m 基本/n 原则/n 是/v 什么/r $/x 
+KEYWORDS: 义务教育 原则 
+LAT: WHAT [原则,]
+
+SEGMENT: ^/x 2011/m 年/m 8/m 月/m ，/x 莫言/nr 创作/vn 的/uj 什么/r 长篇小说/n 获得/v 第/m 8/m 届/m 茅盾文学奖/nz $/x 
+KEYWORDS: 2011 莫言 
+LAT: WHAT [长篇小说,]
+
+SEGMENT: ^/x 截拳道/i 是/v 谁/r 创立/v 的/uj 一类/m 现代/t 武术/n 体系/n $/x 
+KEYWORDS: 截拳道 武术 
+LAT: 
+
+SEGMENT: ^/x 哪个/r 是/v 唯一/b 两次/m 获选/v 为/p 世界/n 三大/j 夜景/n 的/uj 城市/ns $/x 
+KEYWORDS: 三大 获选 
+LAT: WHICH [城市,]
+
+SEGMENT: ^/x 埃菲尔铁塔/nz 的/uj 结构/n 使用/v 了/ul 多少/m 公吨/m 的/uj 熟铁/n $/x 
+KEYWORDS: 埃菲尔铁塔 公吨 
+LAT: HOWMANY [公吨,熟铁,]
+
+SEGMENT: ^/x 《/x 天空/n 之/u 城/n 》/x 是/v 何时/c 推出/v 的/uj 一部/m 长篇/b 动画电影/n $/x 
+KEYWORDS: 动画电影 长篇 
+LAT: 
+
+SEGMENT: ^/x 乒乓球/n 球台/n 被/p 一个多/m 高/a 的/uj 球网/n 分为/v 两/m 部分/n $/x 
+KEYWORDS: 球台 球网 
+LAT: HOWMUCH [高,]
+
+SEGMENT: ^/x 邓亚萍/nr 多/m 大/a 时/ng 夺得/v 了/ul 首个/m 世界冠军/n $/x 
+KEYWORDS: 邓亚萍 多大时 
+LAT: HOWMUCH [大,]
+
+SEGMENT: ^/x 在历史上/n 乌镇/ns 曾/d 出过/v 多少/m 名/q 举人/n $/x 
+KEYWORDS: 乌镇 出过 
+LAT: HOWMANY [名,举人,]
+
+SEGMENT: ^/x 南京市/ns 市旗/n 的/uj 下部/f 三份/mq 之一/r 是/v 什么/r 颜色/n $/x 
+KEYWORDS: 市旗 三份 
+LAT: WHAT [颜色,]
+
+SEGMENT: ^/x 全世界/n 约/d 有/v 多少/m 佛教/nz 信众/n $/x 
+KEYWORDS: 信众 佛教 
+LAT: HOWMANY [佛教,信众,]
+
+SEGMENT: ^/x 《/x 本草纲目/n 》/x 撰成/v 于/p 哪一年/r $/x 
+KEYWORDS: 撰成 哪一年 
+LAT: WHEN [年,]
+
+SEGMENT: ^/x 元曲/n 共计/v 多少/m 支/n 曲牌/n $/x 
+KEYWORDS: 元曲 曲牌 
+LAT: HOWMANY [支,曲牌,]
+
+SEGMENT: ^/x 人/n 的/uj 岁数/n 等于/v 12/m 的/uj 倍数/n 称为/v 什么/r $/x 
+KEYWORDS: 12 岁数 
+LAT: WHAT [倍数,]
+
+SEGMENT: ^/x 服务业/n 目前/t 于/p 发达国家/n 的/uj 产业/n 比重/n 约/d 占/v 多少/m $/x 
+KEYWORDS: 服务业 发达国家 
+LAT: 
+
+SEGMENT: ^/x 姚明/nr 的/uj 父亲/n 姚志源/nr 多/m 高/a $/x 
+KEYWORDS: 姚志源 姚明 
+LAT: HOWMUCH [高,]
+
+SEGMENT: ^/x 马尔代夫/nrt 的/uj 第一/m 大/a 支柱产业/n 是/v 什么/r $/x 
+KEYWORDS: 马尔代夫 支柱产业 
+LAT: WHAT [支柱产业,]
+
+SEGMENT: ^/x 澳大利亚/ns 是/v 南半球/ns 面积/n 第几/m 大/a 的/uj 国家/n $/x 
+KEYWORDS: 第几 南半球 
+LAT: RANK [国家,]
+
+SEGMENT: ^/x 阿根廷/nr 国家足球队/nt 赢得/v 过/ug 多少/m 次/q 美洲杯/nz 冠军/n $/x 
+KEYWORDS: 美洲杯 国家足球队 
+LAT: HOWMANY [次,美洲杯,冠军,]
+
+SEGMENT: ^/x 平均/a 人口密度/n 最高/a 的/uj 大洲/ns 是/v $/x 
+KEYWORDS: 大洲 人口密度 
+LAT: WHO [大洲,]
+
+SEGMENT: ^/x 中国/ns 历史/n 上/f 最/d 杰出/a 的/uj 浪漫主义/n 诗人/n 是/v $/x 
+KEYWORDS: 浪漫主义 杰出 
+LAT: WHO [浪漫主义,诗人,]WHO [诗人,]
+
+SEGMENT: ^/x 甲午战争/nz 爆发/v 的/uj 标志/n 是/v $/x 
+KEYWORDS: 甲午战争 标志 
+LAT: WHO [标志,]
+
+SEGMENT: ^/x 《/x 华英/nr 字典/n 》/x 的/uj 作者/n 是/v $/x 
+KEYWORDS: 字典 华英 
+LAT: WHO [作者,]
+
+SEGMENT: ^/x 《/x 资治通鉴/n 》/x 的/uj 撰写/v 一共/j 耗时/n 多少/m 年/m $/x 
+KEYWORDS: 耗时 资治通鉴 
+LAT: HOWMANY [年,]
+
+SEGMENT: ^/x 世界/n 上/f 首位/m 从/p 南坡/ns 登上/v 珠穆朗玛峰/ns 的/uj 女性/n 的/uj 国籍/n 是/v $/x 
+KEYWORDS: 珠穆朗玛峰 南坡 
+LAT: WHO [国籍,]
+
+SEGMENT: ^/x 最后/f 宣布/v 废除/v 奴隶制度/n 的/uj 行政/n 地区/n 是/v $/x 
+KEYWORDS: 奴隶制度 废除 
+LAT: WHO [行政,地区,]WHO [地区,]
+
+SEGMENT: ^/x 国际/n 海洋法/n 法庭/n 的/uj 总部/n 位于/v 哪个/r 国家/n $/x 
+KEYWORDS: 海洋法 法庭 
+LAT: WHICH [国家,]
+
+SEGMENT: ^/x 《/x 苏德/nr 互不侵犯条约/n 》/x 的/uj 签订/v 地点/n 是/v $/x 
+KEYWORDS: 互不侵犯条约 苏德 
+LAT: 
+
+SEGMENT: ^/x 莫言/nr 获得/v 诺贝尔文学奖/nz 的/uj 年份/n 是/v $/x 
+KEYWORDS: 莫言 诺贝尔文学奖 
+LAT: WHEN [年份,]
+
+SEGMENT: ^/x 元谋人/n 化石/n 发现/v 于/p 中国/ns 的/uj 哪一/r 省份/n $/x 
+KEYWORDS: 元谋人 省份 
+LAT: WHICH [省份,]
+
+SEGMENT: ^/x 美国/ns 的/uj 当代/t 人类学/n 通常/d 划分/v 为/p 几大/m 分支/n $/x 
+KEYWORDS: 人类学 几大 
+LAT: HOWMANY [分支,]
+
+SEGMENT: ^/x “/x 中华民族/nz ”/x 一/m 词/n 最早/d 由/p 谁/r 提出/v $/x 
+KEYWORDS: 中华民族 一词 
+LAT: 
+
+SEGMENT: ^/x 欧洲/ns 的/uj 第一所/m 大学/n 是/v $/x 
+KEYWORDS: 第一所 大学 
+LAT: WHO [大学,]
+
+SEGMENT: ^/x 图书馆学/n 最早/d 由/p 谁/r 提出/v $/x 
+KEYWORDS: 图书馆学 最早 
+LAT: 
+
+SEGMENT: ^/x 约翰/nrt 纳什/nrt 的/uj 博士学位/n 是/v 在/p 哪/r 所/u 大学/n 获得/v 的/uj $/x 
+KEYWORDS: 纳什 约翰 
+LAT: WHICH [大学,]
+
+SEGMENT: ^/x 现存/n 所有/b 老虎/nr 亚种/n 中/f 最小/a 的/uj 亚种/n 是/v $/x 
+KEYWORDS: 亚种 老虎 
+LAT: WHO [亚种,]
+
+SEGMENT: ^/x 目前/t 的/uj 北回归线/n 位置/v 是/v 由/p 哪个/r 组织/v 确定/v 的/uj $/x 
+KEYWORDS: 北回归线 哪个 
+LAT: WHICH [组织,]
+
+SEGMENT: ^/x 首先/d 分离/v 出/v 元素/n 氟/n 的/uj 化学家/n 是/v $/x 
+KEYWORDS: 化学家 元素 
+LAT: WHO [化学家,]
+
+SEGMENT: ^/x 第一位/m 获得/v 菲尔/nrt 兹/rg 奖/n 的/uj 女性/n 是/v $/x 
+KEYWORDS: 菲尔 第一位 
+LAT: WHO [女性,]
+
+SEGMENT: ^/x 薛定谔/nr 方程/n 的/uj 提出/v 者/k 的/uj 国籍/n 是/v $/x 
+KEYWORDS: 薛定谔 国籍 
+LAT: WHO [国籍,]
+
+SEGMENT: ^/x 位于/v 双子座/nr 和/c 狮子座/n 之间/f 的/uj 星座/n 是/v $/x 
+KEYWORDS: 双子座 狮子座 
+LAT: WHO [星座,]
+
+SEGMENT: ^/x 世界/n 最大/a 的/uj 流动性/n 沙漠/n 是/v $/x 
+KEYWORDS: 沙漠 流动性 
+LAT: WHO [流动性,沙漠,]WHO [沙漠,]
+
+SEGMENT: ^/x 人类/n 合成/v 的/uj 第一种/m 抗菌药/nz 是/v $/x 
+KEYWORDS: 抗菌药 第一种 
+LAT: WHO [抗菌药,]
+
+SEGMENT: ^/x 第一种/m 以/p 人工合成/n 无机/n 物质/n 而/c 得到/v 的/uj 有机/n 化合物/n 是/v $/x 
+KEYWORDS: 人工合成 无机 
+LAT: WHO [有机,化合物,]WHO [化合物,]
+
+SEGMENT: ^/x 中国/ns 历史/n 上规模/b 最大/a 的/uj 一套/m 丛书/n 是/v $/x 
+KEYWORDS: 上规模 丛书 
+LAT: WHO [丛书,]
+
+SEGMENT: ^/x 世界/n 上/f 唯一/b 拥有/v 三个/m 首都/d 的/uj 国家/n 是/v $/x 
+KEYWORDS: 首都 唯一 
+LAT: WHO [国家,]
+
+SEGMENT: ^/x 中国/ns 近代/t 第一所/m 国立/b 综合性/n 大学/n 是/v $/x 
+KEYWORDS: 第一所 国立 
+LAT: WHO [综合性,大学,]WHO [大学,]
+
+SEGMENT: ^/x 马达加斯加/ns 位于/v 哪个/r 大洲/ns $/x 
+KEYWORDS: 大洲 马达加斯加 
+LAT: WHICH [大洲,]
+
+SEGMENT: ^/x 经典力学/n 的/uj 基础/n 是/v $/x 
+KEYWORDS: 经典力学 基础 
+LAT: WHO [基础,]
+
+SEGMENT: ^/x 到/v 2012/m 年/m 为止/v ，/x 联合国/nt 共有/v 多少/m 个/q 成员国/n $/x 
+KEYWORDS: 2012 成员国 
+LAT: HOWMANY [个,成员国,]
+
+SEGMENT: ^/x “/x 耶稣/nr ”/x 原文/n 为/p 希腊语/nz ，/x 其/r 意思/n 是/v $/x 
+KEYWORDS: 希腊语 耶稣 
+LAT: WHO [意思,]
+
+SEGMENT: ^/x 路由器/n 处于/v OSI/eng 模型/n 的/uj 哪/r 一层/m $/x 
+KEYWORDS: OSI 路由器 
+LAT: WHICH [一层,]
+
+SEGMENT: ^/x 转基因/n 植物/n 常用/b 哪些/r 方法/n $/x 
+KEYWORDS: 转基因 哪些 
+LAT: LIST [方法,]
+
+SEGMENT: ^/x 空想/n 社会主义/n 学说/n 的/uj 著名/a 代表/n 人物/n 有/v 哪些/r $/x 
+KEYWORDS: 空想 哪些 
+LAT: LIST [人物,]LIST []
+
+SEGMENT: ^/x 大庆油田/nz 所在/b 省份/n 的/uj 省会/n 是/v $/x 
+KEYWORDS: 大庆油田 省份 
+LAT: WHO [省会,]
+
+SEGMENT: ^/x 交流电/n 波形/n 一般/a 表现/v 为/p 何种/r 曲线/n $/x 
+KEYWORDS: 交流电 波形 
+LAT: WHICH [曲线,]
+
+SEGMENT: ^/x KMP/eng 算法/n 中/f 的/uj K/eng 中文/nz 名字/n 叫/v 什么/r $/x 
+KEYWORDS: KMP 算法 
+LAT: WHO [名字,]
+
+SEGMENT: ^/x 紫外线/n 的/uj 波长/n 大约/d 在/p 什么/r 范围/n 内/n $/x 
+KEYWORDS: 紫外线 波长 
+LAT: WHAT [范围,]
+
+SEGMENT: ^/x 被/p 道教/nz 奉/v 为/p 太上老君/nr 的/uj 人物/n 姓/v 什么/r $/x 
+KEYWORDS: 太上老君 道教 
+LAT: WHO [姓,]
+
+SEGMENT: ^/x 芳香烃/n 是/v 何种/r 物质/n 的/uj 总称/n $/x 
+KEYWORDS: 芳香烃 何种 
+LAT: WHICH [物质,]
+
+SEGMENT: ^/x 流过/v 伊甸园/ns 的/uj 四条/m 河/ns 中/f 现存/n 的/uj 有/v 哪些/r $/x 
+KEYWORDS: 伊甸园 流过 
+LAT: LIST []
+
+SEGMENT: ^/x 快速/d 傅里叶/nr 变换/v 算法/n 的/uj 时间/n 复杂度/n 为/p $/x 
+KEYWORDS: 复杂度 傅里叶 
+LAT: WHAT [复杂度,]
+
+SEGMENT: ^/x 锂电池/nz 的/uj 发明者/n 在/p 美国/ns 有/v 多少/m 项/n 专利/n $/x 
+KEYWORDS: 发明者 锂电池 
+LAT: HOWMANY [项,专利,]
+
+SEGMENT: ^/x 活字印刷术/n 的/uj 发明/v 是/v 为了/p 取代/v 哪/r 种/m 技术/n $/x 
+KEYWORDS: 活字印刷术 发明 
+LAT: WHICH [种,技术,]
+
+SEGMENT: ^/x 磁悬浮列车/n 速度/n 最高/a 可达/v 每/r 小时/n 多少/m 公里/q $/x 
+KEYWORDS: 磁悬浮列车 可达 
+LAT: HOWMANY [小时,公里,]HOWMANY [公里,]
+
+SEGMENT: ^/x JPEG2000/eng 格式文件/n 扩展/v 名为/v $/x 
+KEYWORDS: 格式文件 JPEG2000 
+LAT: 
+
+SEGMENT: ^/x 哪些/r 能源/n 属于/v 可/v 再生能源/n $/x 
+KEYWORDS: 再生能源 哪些 
+LAT: LIST [能源,]
+
+SEGMENT: ^/x 拜占庭/nr 将军/n 问题/n 的/uj 提出/v 者/k 是/v 哪/r 国人/n $/x 
+KEYWORDS: 拜占庭 国人 
+LAT: 
+
+SEGMENT: ^/x 并/c 查集/v 定义/n 了/ul 哪/r 两种/m 操作/v $/x 
+KEYWORDS: 查集 定义 
+LAT: WHICH [两种,]
+
+SEGMENT: ^/x 挖掘机/n 在/p 台湾/ns 被/p 叫做/v 什么/r $/x 
+KEYWORDS: 挖掘机 叫做 
+LAT: 
+
+SEGMENT: ^/x 首先/d 发现/v 碳纳米管/nz 所/c 使用/v 的/uj 工具/n 是/v 什么/r $/x 
+KEYWORDS: 碳纳米管 工具 
+LAT: WHAT [工具,]
+
+SEGMENT: ^/x 夏娃/nr 是/v 由/p 亚当/nrt 身上/s 哪个/r 部位/n 造出/v 的/uj $/x 
+KEYWORDS: 夏娃 造出 
+LAT: WHICH [部位,]
+
+SEGMENT: ^/x 霍夫曼/nr 编码/n 的/uj 发明者/n 曾/d 在/p 哪/r 所/u 学校/n 攻读/v 博士学位/n $/x 
+KEYWORDS: 霍夫曼 发明者 
+LAT: WHICH [学校,]
+
+SEGMENT: ^/x 小浪底/n 水利枢纽/n 工程/n 主体/n 在/p 哪一年/r 完工/v $/x 
+KEYWORDS: 小浪底 哪一年 
+LAT: WHEN [年,]
+
+SEGMENT: ^/x 图灵奖/n 目前/t 的/uj 奖金/n 有/v 多少/m $/x 
+KEYWORDS: 图灵奖 奖金 
+LAT: 
+
+SEGMENT: ^/x 俄狄浦斯/ns 的/uj 父母/n 是/v $/x 
+KEYWORDS: 俄狄浦斯 父母 
+LAT: WHO [父母,]
+
+SEGMENT: ^/x 每公斤/n TNT/eng 炸药/n 可以/c 产生/n 多少/m 能量/n $/x 
+KEYWORDS: TNT 每公斤 
+LAT: 
+
+SEGMENT: ^/x 姚期智/nr 在/p 北京/ns 哪/r 所/u 高校/n 兼任/v 教授/n $/x 
+KEYWORDS: 姚期智 哪所 
+LAT: WHICH [高校,]
+
+SEGMENT: ^/x 最早/d 的/uj 基督教/nz 圣诞/t 颂歌/n 出现/v 在/p 哪里/r $/x 
+KEYWORDS: 颂歌 圣诞 
+LAT: WHERE [颂歌,]
+
