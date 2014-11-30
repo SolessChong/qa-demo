@@ -18,7 +18,7 @@ class GenWord2VecMaterial(xml.sax.ContentHandler):
         self.text = ""
         self.counter = 0
         self.file = open(of, 'w')
-        jieba.enable_parallel(2)
+        jieba.enable_parallel(20)
 
     def __del__(self):
         self.file.close()
@@ -34,13 +34,19 @@ class GenWord2VecMaterial(xml.sax.ContentHandler):
 
     def endElement(self, tag):
         if self.CurrentData == "text":
+            if self.title.startswith('Wikipedia:'):
+                print "Skip", self.title
+                self.title = ""
+                return
+            print self.title
+            print len(self.text)
             time0 = time.time()
 
             line = Converter('zh-hans').convert(self.text.decode('utf-8'))
             self.text = line.encode('utf-8')
 
             #words = pseg.cut(self.text)
-            print len(self.text)
+            time_set=time.time()
             words = jieba.cut_for_search(self.text)
             sentenceStart = True
             for w in words:
@@ -48,7 +54,13 @@ class GenWord2VecMaterial(xml.sax.ContentHandler):
 
             print time.time() - time0
 
+            self.counter += 1
+            self.title = ""
+
+            print "Counter", self.counter
+
         self.CurrentData = ""
+        self.text = ""
         
 
 
@@ -64,7 +76,7 @@ if __name__ == "__main__":
     # turn off namepsaces
     parser.setFeature(xml.sax.handler.feature_namespaces, 0)
 
-    filename = 'data/wiki-zh/wiki-mini.xml'
+    filename = 'data/wiki-zh/wiki.xml'
     print "Processing", filename
 
     Handler = GenWord2VecMaterial('data/word2vec/words.txt')
